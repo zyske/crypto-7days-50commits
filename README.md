@@ -7,3 +7,4 @@ Starting my blockchain journey.
 
 Day 1 - Learning basic concepts.
 Tools: Remix IDE
+Goal: Understand smart contracts.
