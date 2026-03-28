@@ -6,3 +6,4 @@ Target: 50 commits in 7 days.
 Starting my blockchain journey.
 
 Day 1 - Learning basic concepts.
+note 
