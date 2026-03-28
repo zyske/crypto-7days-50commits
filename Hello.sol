@@ -2,5 +2,5 @@
 pragma solidity ^0.8.0;
 
 contract Hello {
-    string public message = "Hello World";
+    string public message = "Hello Blockchain";
 }
