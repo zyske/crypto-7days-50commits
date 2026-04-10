@@ -7,3 +7,7 @@ contract Counter {
         count++;
     }
 }
+
+function decrement() public {
+    count--;
+}
