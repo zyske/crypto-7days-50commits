@@ -9,3 +9,5 @@ Day 1 - Learning basic concepts.
 Tools: Remix IDE
 Goal: Understand smart contracts.
 Exploring Solidity basics.
+
+Day 2 - Building Counter Contract.
