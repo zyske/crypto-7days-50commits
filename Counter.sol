@@ -11,3 +11,4 @@ contract Counter {
 function decrement() public {
     count--;
 }
+// Simple counter contract
