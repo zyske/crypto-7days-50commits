@@ -11,3 +11,4 @@ Goal: Understand smart contracts.
 Exploring Solidity basics.
 
 Day 2 - Building Counter Contract.
+Counter can increase and decrease value.
