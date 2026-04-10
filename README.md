@@ -13,3 +13,6 @@ Exploring Solidity basics.
 Day 2 - Building Counter Contract.
 Counter can increase and decrease value.
 minor update
+
+Day 3 - Building Voting Contract.
+Users can vote and reset total votes.
