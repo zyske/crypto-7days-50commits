@@ -15,3 +15,4 @@ contract Voting {
 function resetVotes() public {
     votes = 0;
 }
+// Simple voting contract
